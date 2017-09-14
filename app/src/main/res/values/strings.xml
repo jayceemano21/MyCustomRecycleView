@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">MyCustomRecycleView</string>
+    <string-array name="codename">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>GingerBread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jellybean</item>
+        <item> KitKat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+    </string-array>
+    <string-array name="version">
+        <item>ver. 1.5</item>
+        <item>ver. 1.6</item>
+        <item>ver. 2.0 - 2.1</item>
+        <item>ver. 2.2 - 2.2.3</item>
+        <item>ver. 2.3 - 2.3.7</item>
+        <item>ver. 3.0 - 3.2.6</item>
+        <item>ver. 4.0 - 4.0.4</item>
+        <item>ver. 4.1 - 4.3.1</item>
+        <item>ver. 4.4 - 4.4.4</item>
+        <item>ver. 5.0 - 5.1.1</item>
+        <item>ver. 6.0 - 6.0.1</item>
+        <item>ver. 7.0 - 7.1.2</item>
+        <item>ver. 8.0</item>
+    </string-array>
+    <string-array name="api">
+        <item>api 3</item>
+        <item>api 4</item>
+        <item>api 5 - 7</item>
+        <item>api 8</item>
+        <item>api 9 - 10</item>
+        <item>api 11 - 13</item>
+        <item>api 14 - 15</item>
+        <item>api 16 - 18</item>
+        <item>api 19 - 20</item>
+        <item>api 21 - 22</item>
+        <item>api 23</item>
+        <item>api 24 - 25</item>
+        <item>api 26</item>
+    </string-array>
+    <string-array name="date">
+        <item>April 27, 2009</item>
+        <item>September 15, 2009	</item>
+        <item>October 26, 2009</item>
+        <item>May 20, 2010</item>
+        <item>December 6, 2010</item>
+        <item>February 22, 2011</item>
+        <item>October 18, 2011</item>
+        <item>July 9, 2012</item>
+        <item>October 31, 2013</item>
+        <item>November 12, 2014</item>
+        <item>October 5, 2015</item>
+        <item>August 22, 2016</item>
+        <item>August 21, 2017</item>
+    </string-array>
+</resources>
